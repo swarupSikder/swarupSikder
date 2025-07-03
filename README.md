@@ -7,11 +7,11 @@
 
 
 Swarup Sikder Focus Badge Living Badge
-Hi , I'm Chitra
+Hi , I'm Swarup
 A passionate Frontend Developer from 🇧🇩
 
 About me
-I have obtained a B.Sc. Engg in CSE from Sylhet International University, Bangladesh. I am highly enthusiastic and curious to explore and learn new advancements in this web development field.I have experience working with HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB. Currently, I am focused on learning more frameworks and libraries to further enhance my skills and expand my expertise. 🚀
+I am highly enthusiastic and curious to explore and learn new advancements in this web development field.I have experience working with HTML, CSS, JavaScript, React, Next.js, Node.js, and MongoDB. Currently, I am focused on learning more frameworks and libraries to further enhance my skills and expand my expertise. 🚀
 
 🏆 Projects:
 CrowdCube - A donation platform
